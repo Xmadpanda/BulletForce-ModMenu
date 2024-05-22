@@ -1,9 +1,9 @@
 ext {
-    moduleLibraryName = "GameNameMod"
-    magiskModuleId = "packageName"
-    moduleName = "GameMenu"
+    moduleLibraryName = "BulletForceMod"
+    magiskModuleId = "com.blayzegames.iosfps"
+    moduleName = "Bullet Force Menu"
     moduleAuthor = "XMADPANDA"
-    moduleDescription = "Simple Mod Menu"
-    moduleVersion = "v1.0"
+    moduleDescription = "A mod menu for bullet force"
+    moduleVersion = "v1.100.1"
     moduleVersionCode = 1
 }
