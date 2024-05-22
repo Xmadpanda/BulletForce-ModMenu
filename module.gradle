@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "GameNameMod"
+    magiskModuleId = "packageName"
+    moduleName = "GameMenu"
+    moduleAuthor = "XMADPANDA"
+    moduleDescription = "Simple Mod Menu"
+    moduleVersion = "v1.0"
+    moduleVersionCode = 1
+}
