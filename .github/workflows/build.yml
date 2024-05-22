@@ -15,7 +15,7 @@ jobs:
     - run: |
         chmod +x ./gradlew
         ./gradlew :module:assembleRelease
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       with:
-        name: zygisk-imgui-modmenu
+        name: bulletforce-modmenu
         path: out/magisk_module_release/
